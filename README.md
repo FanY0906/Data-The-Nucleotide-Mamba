@@ -12,4 +12,4 @@ L. Cai, X. Ren, X. Fu, L. Peng, M. Gao, X. Zeng, iEnhancer-XG: interpretable seq
 D. Hernández, N. Jara, M. Araya, R.E. Durán, C. Buil-Aranda, PromoterLCNN: A Light CNN-Based Promoter Prediction and Classification Model, Genes. 13 (2022) 1126. https://doi.org/10.3390/genes13071126
 
 4.Transporter Proteins
-Q. Wang, T. Xu, K. Xu, Z.G. Lu, J.C. Ying, Prediction of transport proteins from sequence information with the deep learning approach, Computers in Biology and Medicine. 160 (2023) 106974
+Q. Wang, T. Xu, K. Xu, Z.G. Lu, J.C. Ying, Prediction of transport proteins from sequence information with the deep learning approach, Computers in Biology and Medicine. 160 (2023) 106974. https://doi.org/10.1016/j.compbiomed.2023.106974
